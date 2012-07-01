@@ -1,9 +1,10 @@
 # Optimal
 ---
 
-Just because we don't care about you, your doc is test/.
+## Documentation
 
-# Install
----
+Doc is /test
+
+## Install
 
 `npm install optimal`
