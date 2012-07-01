@@ -1,0 +1,18 @@
+{
+  "name": "optimal",
+  "version": "0.0.1",
+  "description": "Kickass JS arguments parser",
+  "main": "lib/optimal.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec -r should test/optimal.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Numbee/Optimal.git"
+  },
+  "author": "stoke <stoke@autistici.org>",
+  "license": "BSD"
+}
