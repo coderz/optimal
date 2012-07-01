@@ -1,5 +1,5 @@
-# Optimal
----
+Optimal
+=======
 
 ## Documentation
 
