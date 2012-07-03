@@ -1,9 +1,11 @@
 Optimal
 =======
 
+!(https://secure.travis-ci.org/Numbee/Optimal.png?branch=master)[]
+
 ### Documentation
----
-Just because we don't care about you, your doc is test/.
+
+Check ```example/```
 
 ### Install
 ---
