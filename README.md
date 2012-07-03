@@ -8,5 +8,5 @@ Optimal
 Check ```example/```
 
 ### Install
----
+
 `npm install optimal`
