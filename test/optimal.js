@@ -1,5 +1,5 @@
 var assert = require('assert'),
-    optimal = require('../lib/optimal.js');
+    optimal = require('../');
 
 describe('Optimal', function() {
   it('Should parse optional arguments correctly with object', function() {
@@ -39,8 +39,6 @@ describe('Optimal', function() {
         defaultValue: 'test'
       }
     });
-
-    console.dir(args);
 
     args.string.should.be.a('string');
     args.number.should.be.a('number');

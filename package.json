@@ -1,8 +1,7 @@
 {
   "name": "optimal",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Kickass JS arguments parser",
-  "main": "lib/optimal.js",
   "directories": {
     "test": "test"
   },
