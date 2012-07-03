@@ -6,6 +6,9 @@
   "directories": {
     "test": "test"
   },
+  "devDependencies": {
+    "mocha": ">= 0.0.0"
+  },
   "scripts": {
     "test": "mocha -R spec -r should test/optimal.js"
   },
@@ -14,5 +17,5 @@
     "url": "git://github.com/Numbee/Optimal.git"
   },
   "author": "stoke <stoke@autistici.org>",
-  "license": "BSD"
+  "license": "MIT"
 }
