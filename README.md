@@ -1,7 +1,7 @@
 Optimal
 =======
 
-![https://secure.travis-ci.org/Numbee/Optimal.png?branch=master](travis)
+![travis](https://secure.travis-ci.org/Numbee/Optimal.png?branch=master)
 
 ### Documentation
 
